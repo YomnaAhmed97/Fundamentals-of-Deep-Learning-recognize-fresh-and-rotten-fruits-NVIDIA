@@ -28,7 +28,7 @@ In this exercise, you will train a model to recognize fresh and rotten fruits. T
 10.Run the Assessment
 
 ## About Dataset:
-	<sub>  dataset is from kaggle https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification </sub>
+	  dataset is from kaggle https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification 
 
 ## Certificate
 
