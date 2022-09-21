@@ -31,6 +31,6 @@ In this exercise, you will train a model to recognize fresh and rotten fruits. T
  dataset is from kaggle https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification 
 
 ## Certificate
+This link of certificate
 
-[NVDIA.pdf](https://github.com/YomnaAhmed97/Fundamentals-of-Deep-Learning-recognize-fresh-and-rotten-fruits-NVIDIA/files/9620573/NVDIA.pdf)
-
+https://courses.nvidia.com/certificates/60c0a296d8024d41b604a2513cb60cd0/
